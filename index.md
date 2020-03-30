@@ -4,9 +4,9 @@
 
 ### Category Name 1 
 
-[Chatt app](https://github.com/momahdi/chat-project)
+[DH2642  Interaktionsprogrammering och dynamiska webben, Chatt app (link)](https://github.com/momahdi/chat-project)
 <img src="images/Chat.png?raw=true"/>
-ugkjkb
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
