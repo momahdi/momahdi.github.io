@@ -3,19 +3,21 @@
 ---
 
 
-[DH2642  Interaktionsprogrammering och dynamiska webben at KTH, Chatt app (link to Git)](https://github.com/momahdi/chat-project)
+[DH2642  Interaction Programming and the Dynamic Web at KTH, Chatt app (link to Git)](https://github.com/momahdi/chat-project)
 
 [Chat app, (link to running App)](http://chatroyal.herokuapp.com/)
 <img src="images/Chat.png?raw=true"/>
 
 ---
-[IV1350  Objektorienterad design at KTH, Project](/pdf/Seminar3.pdf)(pdf)
+[IV1350  Object Oriented Design at KTH, Project](/pdf/Seminar3.pdf)(pdf)
 
 [Code (link to Git)](https://github.com/momahdi/Seminar3POS)
 <img src="images/Receipt.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[IS1200  Computer Hardware Engineering at KTH, Project(link)](http://example.com/)
+
+
 <img src="images/DT.gif?raw=true"/>
 
 ---
