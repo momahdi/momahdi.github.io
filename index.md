@@ -10,7 +10,7 @@
 <img src="images/Chat.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[IV1350  Objektorienterad design at KTH, Project](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
