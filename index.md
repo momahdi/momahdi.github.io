@@ -10,7 +10,9 @@
 <img src="images/Chat.png?raw=true"/>
 
 ---
-[IV1350  Objektorienterad design at KTH, Project](/pdf/Seminar3.pdf)
+[IV1350  Objektorienterad design at KTH, Project](/pdf/Seminar3.pdf)(pdf)
+
+[Code (Git)](https://github.com/momahdi/Seminar3POS)
 <img src="images/Receipt.png?raw=true"/>
 
 ---
