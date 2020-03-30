@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Chatt app](https://github.com/momahdi/chat-project)
 <img src="images/Chat.png?raw=true"/>
 
 ---
