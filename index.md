@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[DH2642  Interaktionsprogrammering och dynamiska webben, Chatt app (link)](https://github.com/momahdi/chat-project)
+[DH2642  Interaktionsprogrammering och dynamiska webben at KTH, Chatt app (link)](https://github.com/momahdi/chat-project)
 <img src="images/Chat.png?raw=true"/>
 
 ---
