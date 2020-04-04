@@ -11,7 +11,7 @@
 <br>This project was a created by a team of 4 members.
 It's a fully functional chat application that allows account creation with secured password. 
 <br>A app user can create multiple rooms and invite as many friends as he/she wants. 
-<br>The feature to send picture is also included and allowing the user to see all pictures that has been sent 
+<br>The feature to send picture is also included and allowing the user to see all the pictures that has been sent 
 in the current room.
 <br>Written in:
 <br>-React (JavaScript)
