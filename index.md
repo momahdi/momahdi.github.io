@@ -22,12 +22,17 @@ in the current room.
 
 [Code (link to Git)](https://github.com/momahdi/Seminar3POS)
 <img src="images/Receipt.png?raw=true"/>
-
+- May 2019 
+  <br>The task was to create a POS application that includes unit test and exception handling. 
+  <br>Written in 
+  <br> Java
+  
 ---
 [IS1200  Computer Hardware Engineering at KTH, Project(link to Git)](https://github.com/momahdi/SpaceShipGame-IS1200)
 
 
 <img src="images/DT.gif?raw=true"/>
-
+- Feb 2019
+<br> Me and my projectpartner created a game on a microchip.<br>The Game allows the player to dodge incoming obsticals by pressing the buttons.<br> Written in<br> C <br> MIPS Assembly code
 ---
 
