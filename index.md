@@ -14,7 +14,7 @@ It's a fully functional chat application that allows account creation with secur
 <br>The feature to send picture is also included and allowing the user to see all picture that has been sent 
 in the current room.
 <br>Written in:
-<br>-React
+<br>-React (JavaScript)
 <br>-CSS
 
 ---
