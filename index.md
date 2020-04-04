@@ -34,5 +34,6 @@ in the current room.
 <img src="images/DT.gif?raw=true"/>
 - Feb 2019
 <br> Me and my projectpartner created a game on a microchip.<br>The Game allows the player to dodge incoming obsticals by pressing the buttons.<br> Written in<br> C <br> MIPS Assembly code
+
 ---
 
