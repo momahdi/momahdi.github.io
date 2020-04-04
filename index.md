@@ -14,8 +14,8 @@ It's a fully functional chat application that allows account creation with secur
 <br>The feature to send picture is also included and allowing the user to see all picture that has been sent 
 in the current room.
 <br>Written in:
-<br>React
-<br>CSS
+<br>-React
+<br>-CSS
 
 ---
 [IV1350  Object Oriented Design at KTH, Project](/pdf/Seminar3.pdf)(pdf)
@@ -25,7 +25,7 @@ in the current room.
 - May 2019 
   <br>The task was to create a POS application that includes unit test and exception handling. 
   <br>Written in 
-  <br> Java
+  <br>-Java
   
 ---
 [IS1200  Computer Hardware Engineering at KTH, Project(link to Git)](https://github.com/momahdi/SpaceShipGame-IS1200)
@@ -33,7 +33,7 @@ in the current room.
 
 <img src="images/DT.gif?raw=true"/>
 - Feb 2019
-<br> Me and my projectpartner created a game on a microchip.<br>The Game allows the player to dodge incoming obsticals by pressing the buttons.<br> Written in<br> C <br> MIPS Assembly code
+<br> Me and my projectpartner created a game on a microchip.<br>The Game allows the player to dodge incoming obsticals by pressing the buttons.<br> Written in<br> -C <br> -MIPS Assembly code
 
 ---
 
