@@ -27,7 +27,7 @@ in the current room.
 <br>This project was a created by a team of 4 members. It's a DoorDisplay that is written in React and hosted on IBM Cloud.
 It lets the user write a message that will update all Displays that are subscribed as devices in the IOT Platform. 
 More information about the project details can be found in the project report.
-.
+
 <br>Technology used:
 <br>-React (JavaScript)
 <br>-IBM IOT Platform
@@ -35,6 +35,7 @@ More information about the project details can be found in the project report.
 <br>-Heruko Database
 <br>Project method
 <br>-Agile scrum methodology 
+
 ---
 [IV1350  Object Oriented Design at KTH, Project](/pdf/Seminar3.pdf)(pdf)
 
