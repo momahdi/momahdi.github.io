@@ -21,7 +21,7 @@ in the current room.
 
 [II1302 Projects and Project Methods at KTH, IBM Cloud Project (link to Git)](https://github.com/momahdi/project-arbete-ii1302)
 
-[Agile Scrum, (link to Project report)](/pdf/Projektrapport-final-version.pdf)
+[Agile Scrum, (link to Project report)](/pdf/Projekt-rapport-final-version.pdf)(pdf)
 <img src="images/IOTdevice.png?raw=true"/>
 - May 2020
 <br>This project was a created by a team of 4 members. It's a DoorDisplay that is written in React and hosted on IBM Cloud.
