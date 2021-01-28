@@ -16,6 +16,7 @@ It's a chat application that includes a quiz that can be taken simultaneous by a
 <br>-STOMP
 <br>-JavaScript
 <br>-Html
+<br>-Bootstrap
 <br>-CSS
 
 ---
