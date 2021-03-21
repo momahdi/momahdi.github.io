@@ -100,14 +100,15 @@ More information about the project details can be found in the project report.
 
 ---
 [ID2216 Developing Mobile Applications at KTH, Workout App (Link to git repo)](https://github.com/Bash-ton/Workout-ReactNativeApp) 
-<br>This project was a created by a team of 3 members in 1 week.
-<br>The idea was to create a workout app that lest user create account that have there workouts schedule. It also has the feature to let user see there progress.
+
 
 #### Sign up
 <img src="images/gif 1.gif?raw=true"/>
 #### Create application and apply
 <img src="images/gif 2.gif?raw=true"/>
 
+<br>This project was a created by a team of 3 members in 1 week.
+<br>The idea was to create a workout app that lest user create account that have there workouts schedule. It also has the feature to let user see there progress.
 
 <br>Technology and Languages in this project:
 <br>-React Native
