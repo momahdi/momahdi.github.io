@@ -1,5 +1,7 @@
 ## E-Portfolio
-[IV1201 Design of Global Applications at KTH, Recruitment MERN App hosted on Heroku git (Link to git repo)](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) [Running app(link to running app on heroku)](https://react-express-applicationapp.herokuapp.com/)
+[IV1201 Design of Global Applications at KTH, Recruitment MERN App hosted on Heroku git (Link to git repo)](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) 
+
+[Running app (link to heroku)](https://react-express-applicationapp.herokuapp.com/)
 #### Sign up
 <img src="images/signup.gif?raw=true"/>
 #### Create application and apply
