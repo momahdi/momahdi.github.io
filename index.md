@@ -1,4 +1,28 @@
 ## E-Portfolio
+[IV1201 Design of Global Applications at KTH, Recruitment MERN App hosted on Heroku git (Link to git repo)](https://github.com/Bash-ton/ReactExpress_RecruitmentApp) [Running app(link to running app on heroku)](https://react-express-applicationapp.herokuapp.com/)
+#### Sign up
+<img src="images/signup.gif?raw=true"/>
+#### Create application and apply
+<img src="images/applicationCreation.gif?raw=true"/>
+#### Admin login and handling of application submissions
+<img src="images/applicationAdmin.gif?raw=true"/>
+#### Migration of old SQL database to new document database
+<img src="images/migrationoldDB.gif?raw=true"/>
+
+- March 2021
+
+<br>Written in:
+<br>-Javascript
+<br>-React
+<br>-Redux and hooks
+<br>-HTML
+<br>-CSS
+<br>-Express
+<br>-MongoDB
+<br>-Formik
+<br>-Yup
+<br>-Passport.js
+<br>-Heroku
 
 ---
 
@@ -19,7 +43,7 @@ It's a chat application that includes a quiz that can be taken simultaneous by a
 <br>-Bootstrap
 <br>-CSS
 
----
+
 
 ---
 
