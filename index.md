@@ -11,7 +11,6 @@
 #### Migration of old SQL database to new document database
 <img src="images/migrationoldDB.gif?raw=true"/>
 
-- March 2021
 
 <br>Written in:
 <br>-Javascript
@@ -28,11 +27,10 @@
 
 ---
 
-
 [ID1212 Network Programming at KTH, QuizChat (link to Git)](https://github.com/momahdi/spring-chat-quiz)
 
 <img src="images/Demospring.gif?raw=true"/>
-- Dec 2020
+
 <br>This project was a created by 2 people.
 It's a chat application that includes a quiz that can be taken simultaneous by all members in a chatroom. At start a user is presented with choosing name and room name to join. 
 <br>Later when in the chatroom any user can initiate the quiz by writing "/quiz" in the chat and the quiz will start for all memebers in the room. It's also possible to switch rooms with the command "/join room name" by typing it in the chat.
@@ -54,7 +52,7 @@ It's a chat application that includes a quiz that can be taken simultaneous by a
 
 [Chat app, (link to running App)](http://chatroyal.herokuapp.com/)
 <img src="images/Chat.png?raw=true"/>
-- Jan 2020
+
 <br>This project was a created by a team of 4 members.
 It's a fully functional chat application that allows account creation with secured password. 
 <br>A app user can create multiple rooms and invite as many friends as he/she wants. 
@@ -70,7 +68,7 @@ in the current room.
 
 [Agile Scrum, (link to Project report)](/pdf/Projekt-rapport-final-version.pdf)(pdf)
 <img src="images/IOTdevice.png?raw=true"/>
-- May 2020
+
 <br>This project was a created by a team of 4 members. It's a DoorDisplay that is written in React and hosted on IBM Cloud.
 It lets the user write a message that will update all Displays that are subscribed as devices in the IOT Platform. 
 More information about the project details can be found in the project report.
@@ -81,6 +79,23 @@ More information about the project details can be found in the project report.
 <br>-Heruko Database
 <br>Project method
 <br>-Agile scrum methodology 
+
+---
+[ID2216 Developing Mobile Applications at KTH, WorkOut App (Link to git repo)](https://github.com/Bash-ton/Workout-ReactNativeApp) 
+
+
+#### Sign up
+<img src="images/gif 1.gif?raw=true"/>
+#### Create application and apply
+<img src="images/gif 2.gif?raw=true"/>
+
+- March 2021
+
+<br>Written in:
+<br>-React Native
+<br>-Redux 
+<br>-Firebase
+<br>-Formik
 
 ---
 [IV1350  Object Oriented Design at KTH, Project](/pdf/Seminar3.pdf)(pdf)
